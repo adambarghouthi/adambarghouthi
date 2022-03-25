@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @adambarghouthi
 - 👀 I’m interested in engineering economies, cooperativism, and open-source software
-- 💞️ I’m looking to collaborate on the @psfund
 - 📫 How to reach me: adambargh@gmail.com
